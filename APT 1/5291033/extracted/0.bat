@@ -1,1 +1,0 @@
-del C:\Users\ADMINI~1\AppData\Local\Temp\1CC1A6~1.EXE /a > nul
