@@ -1,0 +1,36 @@
+Report starting for sample: 1a6a112fa17b49e57ce20abf787054d86f7ec0b52c7728c869db2ff287708e74 ------------------------------------
+--------------------- Score for Registry access ---------------------
+RegOpenKeyExA: 0
+RegQueryValueExA: 0
+RegCloseKey: 0
+RegSetValueExA: 0
+RegCreateKeyA: 0
+Malicious score for Registry access is : 0
+--------------------- Score for File access ---------------------
+CreateFileA: 2
+OpenProcess: 0
+ReadFile: 2
+WriteFile: 2
+Malicious score for File access is : 7
+--------------------- Score for Process creation/termination ---------------------
+CreateProcessA: 0
+OpenProcess: 0
+TerminateProcess: 3
+ShellExecuteExA: 0
+Malicious score for Process creation/termination is : 7
+--------------------- Score for Sensitive privilege use ---------------------
+CreateProcessAsUserA: 0
+win_token: 0
+escalate_priv: 0
+Malicious score for Sensitive privilege use is : 0
+--------------------- Score for Network access ---------------------
+HttpSendRequestA: 0
+HttpOpenRequestA: 0
+HttpAddRequestHeadersA: 0
+InternetOpenA: 0
+WSAStartup: 0
+closesocket: 0
+Malicious score for Network access is : 0
+Final score for sample: 1a6a112fa17b49e57ce20abf787054d86f7ec0b52c7728c869db2ff287708e74 is 14
+__________________________________________
+ 

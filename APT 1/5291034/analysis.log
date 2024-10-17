@@ -1,0 +1,26 @@
+2024-10-14 13:58:16,015 [analyzer] DEBUG: Starting analyzer from: C:\tmp4w2pkt
+2024-10-14 13:58:16,030 [analyzer] DEBUG: Pipe server name: \??\PIPE\cqJWorXUrTNyUswRoqWGJHT
+2024-10-14 13:58:16,030 [analyzer] DEBUG: Log pipe server name: \??\PIPE\eeOZmIeMcXXtySZCIQVWkjXEAbq
+2024-10-14 13:58:16,421 [analyzer] DEBUG: Started auxiliary module Curtain
+2024-10-14 13:58:16,421 [analyzer] DEBUG: Started auxiliary module DbgView
+2024-10-14 13:58:16,890 [analyzer] DEBUG: Started auxiliary module Disguise
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Loaded monitor into process with pid 508
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module Human
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module Reboot
+2024-10-14 13:58:17,187 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2024-10-14 13:58:17,187 [analyzer] DEBUG: Started auxiliary module Screenshots
+2024-10-14 13:58:17,187 [analyzer] DEBUG: Started auxiliary module Sysmon
+2024-10-14 13:58:17,187 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2024-10-14 13:58:17,342 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\1d0d00c76353c8a1d2e33af602238244f0e0417193d7f65cfca4f4b576107071.exe' with arguments '' and pid 972
+2024-10-14 13:58:17,546 [analyzer] DEBUG: Loaded monitor into process with pid 972
+2024-10-14 16:12:57,934 [analyzer] INFO: Injected into process with pid 564 and name u'cmd.exe'
+2024-10-14 16:12:58,184 [analyzer] DEBUG: Loaded monitor into process with pid 564
+2024-10-14 16:17:14,434 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2024-10-14 16:17:14,607 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 972.
+2024-10-14 16:17:14,684 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 564.
+2024-10-14 16:17:16,841 [analyzer] INFO: Terminating remaining processes before shutdown.
+2024-10-14 16:17:16,841 [lib.api.process] INFO: Successfully terminated process with pid 972.
+2024-10-14 16:17:16,841 [lib.api.process] INFO: Successfully terminated process with pid 564.
+2024-10-14 16:17:16,841 [analyzer] INFO: Analysis completed.

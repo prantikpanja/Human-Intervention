@@ -1,0 +1,7 @@
+10/14/2024-17:12:37.220380 192.168.168.204:49221 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'
+10/14/2024-17:12:41.373068 192.168.168.204:49226 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'
+10/14/2024-17:13:12.568017 192.168.168.204:49230 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'
+10/14/2024-17:13:43.765258 192.168.168.204:49235 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'
+10/14/2024-17:14:14.964616 192.168.168.204:49238 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'
+10/14/2024-17:14:46.137164 192.168.168.204:49239 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'
+10/14/2024-17:15:17.339019 192.168.168.204:49240 -> 156.234.178.62:443  TLS: Subject='CN=cnndaily.com' Issuerdn='C=US, O=Let's Encrypt, CN=E5'

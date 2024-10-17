@@ -1,0 +1,64 @@
+2024-10-14 17:08:43,188 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:44,250 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:45,281 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:46,321 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:47,755 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:48,813 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:49,874 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:50,931 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:52,060 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:53,386 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:54,436 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:55,482 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:56,544 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:57,726 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:58,792 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:08:59,937 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:09:00,983 [cuckoo.core.scheduler] DEBUG: Task #5291034: no machine available yet
+2024-10-14 17:09:02,267 [cuckoo.core.scheduler] INFO: Task #5291034: acquired machine win7x6423 (label=win7x6423)
+2024-10-14 17:09:02,270 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.168.223 for task #5291034
+2024-10-14 17:09:02,880 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 1950893 (interface=vboxnet0, host=192.168.168.223)
+2024-10-14 17:09:03,288 [cuckoo.machinery.virtualbox] DEBUG: Starting vm win7x6423
+2024-10-14 17:09:04,416 [cuckoo.machinery.virtualbox] DEBUG: Restoring virtual machine win7x6423 to vmcloak
+2024-10-14 17:12:06,598 [cuckoo.core.guest] INFO: Starting analysis #5291034 on guest (id=win7x6423, ip=192.168.168.223)
+2024-10-14 17:12:07,604 [cuckoo.core.guest] DEBUG: win7x6423: not ready yet
+2024-10-14 17:12:12,630 [cuckoo.core.guest] INFO: Guest is running Cuckoo Agent 0.10 (id=win7x6423, ip=192.168.168.223)
+2024-10-14 17:12:12,778 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=win7x6423, ip=192.168.168.223, monitor=latest, size=6660546)
+2024-10-14 17:12:14,054 [cuckoo.core.resultserver] DEBUG: Task #5291034: live log analysis.log initialized.
+2024-10-14 17:12:15,405 [cuckoo.core.resultserver] DEBUG: Task #5291034 is sending a BSON stream
+2024-10-14 17:12:15,541 [cuckoo.core.resultserver] DEBUG: Task #5291034 is sending a BSON stream
+2024-10-14 17:12:16,601 [cuckoo.core.resultserver] DEBUG: Task #5291034: File upload for 'shots/0001.jpg'
+2024-10-14 17:12:16,690 [cuckoo.core.resultserver] DEBUG: Task #5291034 uploaded file length: 133496
+2024-10-14 17:12:29,549 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:12:44,769 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:12:58,108 [cuckoo.core.resultserver] DEBUG: Task #5291034 is sending a BSON stream
+2024-10-14 17:12:59,996 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:13:15,208 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:13:30,851 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:13:46,701 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:14:02,058 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:14:18,125 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:14:33,942 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:14:49,145 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:15:04,632 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:15:20,052 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:15:35,407 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:15:50,653 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:16:05,914 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:16:21,065 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:16:36,211 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:16:51,592 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:17:07,010 [cuckoo.core.guest] DEBUG: win7x6423: analysis #5291034 still processing
+2024-10-14 17:17:14,839 [cuckoo.core.resultserver] DEBUG: Task #5291034: File upload for 'curtain/1728915434.81.curtain.log'
+2024-10-14 17:17:14,841 [cuckoo.core.resultserver] DEBUG: Task #5291034 uploaded file length: 36
+2024-10-14 17:17:16,599 [cuckoo.core.resultserver] DEBUG: Task #5291034: File upload for 'sysmon/1728915436.58.sysmon.xml'
+2024-10-14 17:17:16,882 [cuckoo.core.resultserver] DEBUG: Task #5291034 uploaded file length: 26448562
+2024-10-14 17:17:16,937 [cuckoo.core.resultserver] DEBUG: Task #5291034 had connection reset for <Context for LOG>
+2024-10-14 17:17:19,080 [cuckoo.core.guest] INFO: win7x6423: analysis completed successfully
+2024-10-14 17:17:19,097 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Redsocks
+2024-10-14 17:17:19,119 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer
+2024-10-14 17:17:20,743 [cuckoo.machinery.virtualbox] INFO: Successfully generated memory dump for virtual machine with label win7x6423 to path /srv/cuckoo/cwd/storage/analyses/5291034/memory.dmp
+2024-10-14 17:17:20,748 [cuckoo.machinery.virtualbox] DEBUG: Stopping vm win7x6423
+2024-10-14 17:18:13,409 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.168.223 for task #5291034
+2024-10-14 17:18:18,191 [cuckoo.core.scheduler] DEBUG: Released database task #5291034
+2024-10-14 17:18:18,222 [cuckoo.core.scheduler] INFO: Task #5291034: analysis procedure completed

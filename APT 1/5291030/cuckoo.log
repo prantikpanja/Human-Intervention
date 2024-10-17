@@ -1,0 +1,84 @@
+2024-10-14 17:07:53,460 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:07:54,484 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:07:55,531 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:07:56,575 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:07:57,850 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:07:58,913 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:07:59,970 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:01,036 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:02,092 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:03,153 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:04,735 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:05,807 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:06,866 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:07,912 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:08,940 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:09,961 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:10,988 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:12,006 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:13,031 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:14,056 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:15,075 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:16,095 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:17,116 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:18,138 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:19,177 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:20,439 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:21,521 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:22,597 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:23,718 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:25,373 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:26,937 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:28,083 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:29,111 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:30,146 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:31,175 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:32,255 [cuckoo.core.scheduler] DEBUG: Task #5291030: no machine available yet
+2024-10-14 17:08:33,696 [cuckoo.core.scheduler] INFO: Task #5291030: acquired machine win7x6416 (label=win7x6416)
+2024-10-14 17:08:33,702 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.168.216 for task #5291030
+2024-10-14 17:08:34,267 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 1949761 (interface=vboxnet0, host=192.168.168.216)
+2024-10-14 17:08:34,632 [cuckoo.machinery.virtualbox] DEBUG: Starting vm win7x6416
+2024-10-14 17:08:35,719 [cuckoo.machinery.virtualbox] DEBUG: Restoring virtual machine win7x6416 to vmcloak
+2024-10-14 17:10:52,229 [cuckoo.core.guest] INFO: Starting analysis #5291030 on guest (id=win7x6416, ip=192.168.168.216)
+2024-10-14 17:10:53,254 [cuckoo.core.guest] DEBUG: win7x6416: not ready yet
+2024-10-14 17:10:58,305 [cuckoo.core.guest] INFO: Guest is running Cuckoo Agent 0.10 (id=win7x6416, ip=192.168.168.216)
+2024-10-14 17:10:58,447 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=win7x6416, ip=192.168.168.216, monitor=latest, size=6660546)
+2024-10-14 17:10:59,978 [cuckoo.core.resultserver] DEBUG: Task #5291030: live log analysis.log initialized.
+2024-10-14 17:11:00,983 [cuckoo.core.resultserver] DEBUG: Task #5291030 is sending a BSON stream
+2024-10-14 17:11:01,505 [cuckoo.core.resultserver] DEBUG: Task #5291030 is sending a BSON stream
+2024-10-14 17:11:02,342 [cuckoo.core.resultserver] DEBUG: Task #5291030: File upload for 'shots/0001.jpg'
+2024-10-14 17:11:02,365 [cuckoo.core.resultserver] DEBUG: Task #5291030 uploaded file length: 133601
+2024-10-14 17:11:14,683 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:11:29,896 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:11:45,224 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:12:00,404 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:12:15,559 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:12:30,945 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:12:46,045 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:13:01,379 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:13:16,756 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:13:32,078 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:13:47,426 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:14:02,857 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:14:18,687 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:14:34,078 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:14:49,764 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:14:51,949 [cuckoo.core.resultserver] DEBUG: Task #5291030: File upload for 'shots/0002.jpg'
+2024-10-14 17:14:51,968 [cuckoo.core.resultserver] DEBUG: Task #5291030 uploaded file length: 139952
+2024-10-14 17:15:05,048 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:15:20,159 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:15:35,400 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:15:50,665 [cuckoo.core.guest] DEBUG: win7x6416: analysis #5291030 still processing
+2024-10-14 17:16:00,714 [cuckoo.core.resultserver] DEBUG: Task #5291030: File upload for 'curtain/1728915360.7.curtain.log'
+2024-10-14 17:16:00,717 [cuckoo.core.resultserver] DEBUG: Task #5291030 uploaded file length: 36
+2024-10-14 17:16:02,515 [cuckoo.core.resultserver] DEBUG: Task #5291030: File upload for 'sysmon/1728915362.45.sysmon.xml'
+2024-10-14 17:16:02,692 [cuckoo.core.resultserver] DEBUG: Task #5291030 uploaded file length: 24772448
+2024-10-14 17:16:02,738 [cuckoo.core.resultserver] DEBUG: Task #5291030 had connection reset for <Context for LOG>
+2024-10-14 17:16:02,898 [cuckoo.core.guest] INFO: win7x6416: analysis completed successfully
+2024-10-14 17:16:02,948 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Redsocks
+2024-10-14 17:16:03,078 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer
+2024-10-14 17:16:04,639 [cuckoo.machinery.virtualbox] INFO: Successfully generated memory dump for virtual machine with label win7x6416 to path /srv/cuckoo/cwd/storage/analyses/5291030/memory.dmp
+2024-10-14 17:16:04,641 [cuckoo.machinery.virtualbox] DEBUG: Stopping vm win7x6416
+2024-10-14 17:18:06,247 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.168.216 for task #5291030
+2024-10-14 17:18:09,618 [cuckoo.core.scheduler] DEBUG: Released database task #5291030
+2024-10-14 17:18:20,101 [cuckoo.core.scheduler] INFO: Task #5291030: analysis procedure completed

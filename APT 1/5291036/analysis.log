@@ -1,0 +1,41 @@
+2024-10-14 13:58:16,015 [analyzer] DEBUG: Starting analyzer from: C:\tmppw5mq4
+2024-10-14 13:58:16,015 [analyzer] DEBUG: Pipe server name: \??\PIPE\KLgTBhayXsUgzhfyDTnTDKpDslhgh
+2024-10-14 13:58:16,015 [analyzer] DEBUG: Log pipe server name: \??\PIPE\HrIydoNvawoavpAslvLaRBPTtqgT
+2024-10-14 13:58:16,265 [analyzer] DEBUG: Started auxiliary module Curtain
+2024-10-14 13:58:16,265 [analyzer] DEBUG: Started auxiliary module DbgView
+2024-10-14 13:58:16,780 [analyzer] DEBUG: Started auxiliary module Disguise
+2024-10-14 13:58:17,000 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2024-10-14 13:58:17,000 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2024-10-14 13:58:17,000 [analyzer] DEBUG: Started auxiliary module Human
+2024-10-14 13:58:17,000 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2024-10-14 13:58:17,000 [analyzer] DEBUG: Started auxiliary module Reboot
+2024-10-14 13:58:17,092 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module Screenshots
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module Sysmon
+2024-10-14 13:58:17,108 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2024-10-14 13:58:17,250 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\6ad91e399eca4253b5871954aa23cf63b6ea2338a9e5c57e18cead0ab4b485c1.exe' with arguments '' and pid 220
+2024-10-14 13:58:17,421 [analyzer] DEBUG: Loaded monitor into process with pid 220
+2024-10-14 13:58:17,421 [analyzer] INFO: Added new file to list with pid 220 and path C:\Users\Administrator\AppData\Local\Temp\6ad91e399eca4253b5871954aa23cf63b6ea2338a9e5c57e18cead0ab4b485c1.pdf
+2024-10-14 13:58:18,280 [analyzer] INFO: Injected into process with pid 2836 and name u'AcroRd32.exe'
+2024-10-14 13:58:18,296 [analyzer] INFO: Added new file to list with pid 220 and path C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Templates\adobe_sl.exe
+2024-10-14 13:58:18,453 [analyzer] DEBUG: Loaded monitor into process with pid 2836
+2024-10-14 13:58:18,500 [analyzer] INFO: Added new file to list with pid 220 and path C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\adobe_sl.lnk
+2024-10-14 13:58:18,953 [analyzer] INFO: Injected into process with pid 1696 and name u'explorer.exe'
+2024-10-14 13:58:19,030 [analyzer] INFO: Injected into process with pid 2588 and name ''
+2024-10-14 13:58:19,140 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 220.
+2024-10-14 13:58:19,187 [analyzer] DEBUG: Loaded monitor into process with pid 1696
+2024-10-14 13:58:19,217 [analyzer] DEBUG: Loaded monitor into process with pid 2588
+2024-10-14 13:58:19,250 [analyzer] INFO: Process with pid 220 has terminated
+2024-10-14 13:58:20,250 [analyzer] INFO: Added new file to list with pid 2836 and path C:\Users\Administrator\AppData\Roaming\Adobe\Acrobat\9.0\UserCache.bin
+2024-10-14 13:58:20,546 [analyzer] INFO: Added new file to list with pid 2836 and path C:\Users\Administrator\AppData\Local\Adobe\Color\Profiles\wscRGB.icc
+2024-10-14 13:58:20,592 [analyzer] INFO: Added new file to list with pid 2836 and path C:\Users\Administrator\AppData\Local\Adobe\Color\Profiles\wsRGB.icc
+2024-10-14 13:58:20,655 [analyzer] INFO: Added new file to list with pid 2836 and path C:\Users\Administrator\AppData\Local\Adobe\Color\ACECache10.lst
+2024-10-14 16:17:24,407 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2024-10-14 16:17:24,609 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 2836.
+2024-10-14 16:17:24,796 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1696.
+2024-10-14 16:17:24,875 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 2588.
+2024-10-14 16:17:27,219 [analyzer] INFO: Terminating remaining processes before shutdown.
+2024-10-14 16:17:27,234 [lib.api.process] INFO: Successfully terminated process with pid 2836.
+2024-10-14 16:17:27,234 [lib.api.process] INFO: Successfully terminated process with pid 1696.
+2024-10-14 16:17:27,234 [lib.api.process] INFO: Successfully terminated process with pid 2588.
+2024-10-14 16:17:27,266 [analyzer] INFO: Analysis completed.

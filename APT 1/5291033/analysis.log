@@ -1,0 +1,31 @@
+2024-10-14 13:58:16,000 [analyzer] DEBUG: Starting analyzer from: C:\tmp4hzt0l
+2024-10-14 13:58:16,015 [analyzer] DEBUG: Pipe server name: \??\PIPE\qXUmqpgAyQvsgsZB
+2024-10-14 13:58:16,015 [analyzer] DEBUG: Log pipe server name: \??\PIPE\dPtoKsIqtnmSfquqUTUniMlMFCzn
+2024-10-14 13:58:16,296 [analyzer] DEBUG: Started auxiliary module Curtain
+2024-10-14 13:58:16,296 [analyzer] DEBUG: Started auxiliary module DbgView
+2024-10-14 13:58:16,828 [analyzer] DEBUG: Started auxiliary module Disguise
+2024-10-14 13:58:17,030 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2024-10-14 13:58:17,030 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2024-10-14 13:58:17,030 [analyzer] DEBUG: Started auxiliary module Human
+2024-10-14 13:58:17,030 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2024-10-14 13:58:17,030 [analyzer] DEBUG: Started auxiliary module Reboot
+2024-10-14 13:58:17,125 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2024-10-14 13:58:17,125 [analyzer] DEBUG: Started auxiliary module Screenshots
+2024-10-14 13:58:17,125 [analyzer] DEBUG: Started auxiliary module Sysmon
+2024-10-14 13:58:17,125 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2024-10-14 13:58:17,280 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\1cc1a6f131617e0a15380e327e96d903ba4512dca45b63b9a456751495ede76c.exe' with arguments '' and pid 2236
+2024-10-14 13:58:17,467 [analyzer] DEBUG: Loaded monitor into process with pid 2236
+2024-10-14 13:58:17,796 [analyzer] INFO: Injected into process with pid 1376 and name u'cmd.exe'
+2024-10-14 13:58:17,875 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 1376.
+2024-10-14 13:58:17,953 [analyzer] INFO: Injected into process with pid 1280 and name u'AcroRD32.exe'
+2024-10-14 13:58:18,046 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 2236.
+2024-10-14 13:58:18,092 [analyzer] DEBUG: Loaded monitor into process with pid 1376
+2024-10-14 13:58:18,125 [analyzer] DEBUG: Loaded monitor into process with pid 1280
+2024-10-14 13:58:18,265 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 1376.
+2024-10-14 13:58:18,280 [analyzer] INFO: Process with pid 2236 has terminated
+2024-10-14 13:58:19,280 [analyzer] INFO: Process with pid 1376 has terminated
+2024-10-14 16:17:05,191 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2024-10-14 16:17:05,348 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 1280.
+2024-10-14 16:17:07,848 [analyzer] INFO: Terminating remaining processes before shutdown.
+2024-10-14 16:17:07,848 [lib.api.process] INFO: Successfully terminated process with pid 1280.
+2024-10-14 16:17:07,848 [analyzer] INFO: Analysis completed.

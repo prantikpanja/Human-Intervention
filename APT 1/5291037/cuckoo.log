@@ -1,0 +1,60 @@
+2024-10-14 17:09:14,677 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:15,708 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:16,734 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:17,755 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:18,777 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:19,804 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:20,832 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:21,977 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:23,037 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:24,089 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:25,138 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:26,180 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:27,309 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:28,627 [cuckoo.core.scheduler] DEBUG: Task #5291037: no machine available yet
+2024-10-14 17:09:30,218 [cuckoo.core.scheduler] INFO: Task #5291037: acquired machine win7x6421 (label=win7x6421)
+2024-10-14 17:09:30,225 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.168.221 for task #5291037
+2024-10-14 17:09:30,862 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 1951991 (interface=vboxnet0, host=192.168.168.221)
+2024-10-14 17:09:32,040 [cuckoo.machinery.virtualbox] DEBUG: Starting vm win7x6421
+2024-10-14 17:09:33,533 [cuckoo.machinery.virtualbox] DEBUG: Restoring virtual machine win7x6421 to vmcloak
+2024-10-14 17:12:37,537 [cuckoo.core.guest] INFO: Starting analysis #5291037 on guest (id=win7x6421, ip=192.168.168.221)
+2024-10-14 17:12:38,542 [cuckoo.core.guest] DEBUG: win7x6421: not ready yet
+2024-10-14 17:12:43,566 [cuckoo.core.guest] INFO: Guest is running Cuckoo Agent 0.10 (id=win7x6421, ip=192.168.168.221)
+2024-10-14 17:12:43,680 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=win7x6421, ip=192.168.168.221, monitor=latest, size=6660546)
+2024-10-14 17:12:45,327 [cuckoo.core.resultserver] DEBUG: Task #5291037: live log analysis.log initialized.
+2024-10-14 17:12:46,386 [cuckoo.core.resultserver] DEBUG: Task #5291037 is sending a BSON stream
+2024-10-14 17:12:46,945 [cuckoo.core.resultserver] DEBUG: Task #5291037 is sending a BSON stream
+2024-10-14 17:12:47,638 [cuckoo.core.resultserver] DEBUG: Task #5291037: File upload for 'shots/0001.jpg'
+2024-10-14 17:12:47,658 [cuckoo.core.resultserver] DEBUG: Task #5291037 uploaded file length: 133496
+2024-10-14 17:12:59,995 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:13:15,233 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:13:30,857 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:13:46,705 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:14:02,052 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:14:18,098 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:14:33,931 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:14:49,109 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:15:04,536 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:15:19,627 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:15:35,244 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:15:50,582 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:16:05,701 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:16:21,057 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:16:36,195 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:16:51,620 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:17:07,703 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:17:22,801 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:17:38,236 [cuckoo.core.guest] DEBUG: win7x6421: analysis #5291037 still processing
+2024-10-14 17:17:46,192 [cuckoo.core.resultserver] DEBUG: Task #5291037: File upload for 'curtain/1728915466.01.curtain.log'
+2024-10-14 17:17:46,196 [cuckoo.core.resultserver] DEBUG: Task #5291037 uploaded file length: 36
+2024-10-14 17:17:47,994 [cuckoo.core.resultserver] DEBUG: Task #5291037: File upload for 'sysmon/1728915467.98.sysmon.xml'
+2024-10-14 17:17:48,195 [cuckoo.core.resultserver] DEBUG: Task #5291037 uploaded file length: 27013540
+2024-10-14 17:17:48,252 [cuckoo.core.resultserver] DEBUG: Task #5291037 had connection reset for <Context for LOG>
+2024-10-14 17:17:50,373 [cuckoo.core.guest] INFO: win7x6421: analysis completed successfully
+2024-10-14 17:17:50,385 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Redsocks
+2024-10-14 17:17:50,411 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer
+2024-10-14 17:17:52,010 [cuckoo.machinery.virtualbox] INFO: Successfully generated memory dump for virtual machine with label win7x6421 to path /srv/cuckoo/cwd/storage/analyses/5291037/memory.dmp
+2024-10-14 17:17:52,012 [cuckoo.machinery.virtualbox] DEBUG: Stopping vm win7x6421
+2024-10-14 17:18:15,943 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.168.221 for task #5291037
+2024-10-14 17:18:18,926 [cuckoo.core.scheduler] DEBUG: Released database task #5291037
+2024-10-14 17:18:18,952 [cuckoo.core.scheduler] INFO: Task #5291037: analysis procedure completed

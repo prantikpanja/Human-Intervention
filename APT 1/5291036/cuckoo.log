@@ -1,0 +1,90 @@
+2024-10-14 17:09:07,950 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:08,971 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:10,149 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:11,207 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:12,237 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:13,268 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:14,308 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:15,332 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:16,364 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:17,392 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:18,413 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:19,436 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:20,717 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:21,976 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:23,035 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:24,087 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:25,131 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:26,175 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:27,306 [cuckoo.core.scheduler] DEBUG: Task #5291036: no machine available yet
+2024-10-14 17:09:28,633 [cuckoo.core.scheduler] INFO: Task #5291036: acquired machine win7x646 (label=win7x646)
+2024-10-14 17:09:28,639 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.168.206 for task #5291036
+2024-10-14 17:09:29,247 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 1951945 (interface=vboxnet0, host=192.168.168.206)
+2024-10-14 17:09:29,897 [cuckoo.machinery.virtualbox] DEBUG: Starting vm win7x646
+2024-10-14 17:09:30,877 [cuckoo.machinery.virtualbox] DEBUG: Restoring virtual machine win7x646 to vmcloak
+2024-10-14 17:12:16,695 [cuckoo.core.guest] INFO: Starting analysis #5291036 on guest (id=win7x646, ip=192.168.168.206)
+2024-10-14 17:12:17,754 [cuckoo.core.guest] DEBUG: win7x646: not ready yet
+2024-10-14 17:12:22,795 [cuckoo.core.guest] INFO: Guest is running Cuckoo Agent 0.10 (id=win7x646, ip=192.168.168.206)
+2024-10-14 17:12:22,850 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=win7x646, ip=192.168.168.206, monitor=latest, size=6660546)
+2024-10-14 17:12:24,115 [cuckoo.core.resultserver] DEBUG: Task #5291036: live log analysis.log initialized.
+2024-10-14 17:12:25,055 [cuckoo.core.resultserver] DEBUG: Task #5291036 is sending a BSON stream
+2024-10-14 17:12:25,461 [cuckoo.core.resultserver] DEBUG: Task #5291036 is sending a BSON stream
+2024-10-14 17:12:26,593 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'shots/0001.jpg'
+2024-10-14 17:12:26,597 [cuckoo.core.resultserver] DEBUG: Task #5291036 is sending a BSON stream
+2024-10-14 17:12:26,613 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 133496
+2024-10-14 17:12:27,133 [cuckoo.core.resultserver] DEBUG: Task #5291036 is sending a BSON stream
+2024-10-14 17:12:27,258 [cuckoo.core.resultserver] DEBUG: Task #5291036 is sending a BSON stream
+2024-10-14 17:12:27,344 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/6ad91e399eca4253_6ad91e399eca4253b5871954aa23cf63b6ea2338a9e5c57e18cead0ab4b485c1.exe'
+2024-10-14 17:12:27,349 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 123904
+2024-10-14 17:12:27,751 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'shots/0002.jpg'
+2024-10-14 17:12:27,774 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 125310
+2024-10-14 17:12:29,920 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'shots/0003.jpg'
+2024-10-14 17:12:29,937 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 133496
+2024-10-14 17:12:31,026 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'shots/0004.jpg'
+2024-10-14 17:12:31,036 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 59479
+2024-10-14 17:12:38,967 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:12:39,291 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'shots/0005.jpg'
+2024-10-14 17:12:39,302 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 60197
+2024-10-14 17:12:54,239 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:13:09,342 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:13:24,705 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:13:40,463 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:13:56,029 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:14:11,609 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:14:27,470 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:14:43,036 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:14:58,505 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:15:13,630 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:15:29,168 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:15:44,277 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:15:59,410 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:16:14,651 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:16:29,741 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:16:44,842 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:16:59,951 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:17:15,299 [cuckoo.core.guest] DEBUG: win7x646: analysis #5291036 still processing
+2024-10-14 17:17:25,682 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'curtain/1728915445.02.curtain.log'
+2024-10-14 17:17:25,688 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 36
+2024-10-14 17:17:27,069 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'sysmon/1728915446.69.sysmon.xml'
+2024-10-14 17:17:27,225 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 23887976
+2024-10-14 17:17:27,283 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/fd08016e051ab107_wscrgb.icc'
+2024-10-14 17:17:27,286 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 66208
+2024-10-14 17:17:27,287 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/65c97d3cad588775_wsrgb.icc'
+2024-10-14 17:17:27,289 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 2676
+2024-10-14 17:17:27,290 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/029179179d3c8cd7_acecache10.lst'
+2024-10-14 17:17:27,293 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 1946
+2024-10-14 17:17:27,294 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/12c55b28b8d91a62_6ad91e399eca4253b5871954aa23cf63b6ea2338a9e5c57e18cead0ab4b485c1.pdf'
+2024-10-14 17:17:27,298 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/1e486481f268527e_adobe_sl.lnk'
+2024-10-14 17:17:27,300 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 1039
+2024-10-14 17:17:27,302 [cuckoo.core.resultserver] DEBUG: Task #5291036: File upload for 'files/2cbbfbe12768f624_usercache.bin'
+2024-10-14 17:17:27,313 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 105128
+2024-10-14 17:17:27,315 [cuckoo.core.resultserver] DEBUG: Task #5291036 had connection reset for <Context for LOG>
+2024-10-14 17:17:27,318 [cuckoo.core.resultserver] DEBUG: Task #5291036 uploaded file length: 69063
+2024-10-14 17:17:27,446 [cuckoo.core.guest] INFO: win7x646: analysis completed successfully
+2024-10-14 17:17:27,461 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Redsocks
+2024-10-14 17:17:27,481 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer
+2024-10-14 17:17:28,947 [cuckoo.machinery.virtualbox] INFO: Successfully generated memory dump for virtual machine with label win7x646 to path /srv/cuckoo/cwd/storage/analyses/5291036/memory.dmp
+2024-10-14 17:17:28,949 [cuckoo.machinery.virtualbox] DEBUG: Stopping vm win7x646
+2024-10-14 17:18:13,961 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.168.206 for task #5291036
+2024-10-14 17:18:18,414 [cuckoo.core.scheduler] DEBUG: Released database task #5291036
+2024-10-14 17:18:25,231 [cuckoo.core.scheduler] INFO: Task #5291036: analysis procedure completed
